@@ -38,8 +38,4 @@ Top Features Identified:
 - OnlineSecurity
 - TechSupport
 
-```python
-from xgboost import XGBClassifier
 
-model = XGBClassifier()
-model.fit(X_train, y_train)
