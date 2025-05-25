@@ -9,6 +9,5 @@ Welcome to Customer Churn Prediction's documentation!
    data_description
    preprocessing
    modeling
-   deployment
    faq
    references
