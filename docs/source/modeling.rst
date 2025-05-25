@@ -1,11 +1,8 @@
 
 ---
 
-# 📘 `modeling.rst`
+#  `modeling.rst`
 
-```rst
-Modeling
-========
 
 We trained multiple models to predict customer churn:
 
