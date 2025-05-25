@@ -8,3 +8,4 @@ matplotlib
 seaborn
 joblib
 sphinx
+sphinx_rtd_theme
