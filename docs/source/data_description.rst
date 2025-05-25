@@ -23,5 +23,5 @@ Key Features:
 - **TotalCharges**: Total amount charged
 - **Churn**: Whether the customer left (Yes/No)
 
-Sample data (first 3 rows):
+
 
