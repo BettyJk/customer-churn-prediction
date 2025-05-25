@@ -18,8 +18,3 @@ Raw data must be cleaned and transformed before modeling. Below are the steps fo
 
 5. **Handling Imbalance**:
    - Used SMOTE to balance the dataset because churn classes were imbalanced (more No than Yes).
-
-```python
-from imblearn.over_sampling import SMOTE
-smote = SMOTE()
-X_resampled, y_resampled = smote.fit_resample(X, y)
