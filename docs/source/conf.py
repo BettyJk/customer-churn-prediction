@@ -5,6 +5,7 @@
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
+import sphinx_rtd_theme
 
 project = 'Customer Churn Prediction'
 copyright = '0.1, Hajar el Hadri & Bouthayna Jouak & Hattaki Kawter & Fatima El Fadili & Mohamed Laraisse & Ghofrane Alaoui Mdaghri'
